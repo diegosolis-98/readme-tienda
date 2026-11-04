@@ -57,7 +57,7 @@ function calcularTotal(lista) {
   return total;
 }
 ```
-### Flujo para utilizar index
+## Arquitectura
 ```mermaid
 graph TD
     A[Abrir index.html] --> B[Cargar estructura HTML]
