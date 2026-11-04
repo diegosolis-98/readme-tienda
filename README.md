@@ -4,7 +4,7 @@
 ![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
-Proyecto de tienda online de articulos que muestra la lista de datos y calcula el total para el publico general interesado.
+Proyecto de tienda online que muestra la lista de articulos con descripción, cantidad y precio unitario.Además, que calcula el total de los articulos y es facil de usar para el publico general interesado.
 
 ## Tabla de contenidos
 
@@ -16,7 +16,7 @@ Proyecto de tienda online de articulos que muestra la lista de datos y calcula e
 -	[Licencia](#licencia)
  ## Instalacion
 ```bash
-git clone https://github.com/TU-USUARIO/app-notas.git cd readme-tienda
+git clone https://github.com/TU-USUARIO/readme-tienda.git cd readme-tienda
 ```
 
 ## Uso
