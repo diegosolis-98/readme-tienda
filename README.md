@@ -57,7 +57,21 @@ function calcularTotal(lista) {
   return total;
 }
 ```
+### Flujo para utilizar index
+```mermaid
+graph TD
+    A[Abrir index.html] --> B[Cargar estructura HTML]
+    B --> C[Mostrar resultado en pantalla]
+```
+## Contribucion
 
+Lee la [guia de contribucion](CONTRIBUTING.md) antes de enviar cambios.
+
+ ## Licencia
+Este proyecto usa la licencia MIT. Revisa el archivo [LICENSE](LICENSE).
+
+ ## Autor
+Hecho por **Diego Solis** - [GitHub](https://github.com/diegosolis-98)
 
 
 
